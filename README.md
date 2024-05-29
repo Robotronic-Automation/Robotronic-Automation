@@ -27,7 +27,7 @@
 </h1>
 
 <p align = "center">
-	<a <img width="50px" src="./assets/images/github_logo.jpg" href="https://github.com/Robotronic-Automation"> >
-	<a <img width="50px" src="./assets/images/youtube_logo.png" href="https://www.youtube.com/@RobotronicAutomation"> >
-	<a <img width="50px" src="./assets/images/instagram_logo.png" href="https://www.instagram.com/robotronicautomation/"> >
+	<img width="50px" src="./assets/images/github_logo.jpg" href="https://github.com/Robotronic-Automation"> 
+	<img width="50px" src="./assets/images/youtube_logo.png" href="https://www.youtube.com/@RobotronicAutomation"> 
+	<img width="50px" src="./assets/images/instagram_logo.png" href="https://www.instagram.com/robotronicautomation/"> 
 </p>
