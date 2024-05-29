@@ -28,9 +28,12 @@
 
 <p align = "center">
 	<a href="https://github.com/Robotronic-Automation">
-    <img src="./assets/images/github_logo.jpg" alt="GitHub Logo" width="50px">
-</a>
-	<img width="50px" src="./assets/images/github_logo.jpg" href="https://github.com/Robotronic-Automation"> 
-	<img width="50px" src="./assets/images/instagram_logo.png" href="https://www.instagram.com/robotronicautomation/"> 
-	<img width="60px" src="./assets/images/youtube_logo.png" href="https://www.youtube.com/@RobotronicAutomation"> 
+        <img src="./assets/images/github_logo.jpg" alt="GitHub Logo" width="50px">
+        </a>
+	<a href="https://www.instagram.com/robotronicautomation/">
+	<img src="./assets/images/instagram_logo.png" alt="Instagram Logo" width="50px"> 
+        </a>
+	<a href="https://www.youtube.com/@RobotronicAutomation">
+	<img src="./assets/images/youtube_logo.png" alt="Youtube Logo" width="60px"> 
+        </a>
 </p>
