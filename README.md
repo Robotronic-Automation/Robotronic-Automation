@@ -1,5 +1,5 @@
 <p align = "center">
-	<img src="./assets/images/logo2_sin_fondo.png" width="120px">
+	<img src="./assets/images/logo2_sin_fondo.png" width="200px">
 </p>
 <br><br>
 <h1 align="center">
@@ -16,7 +16,7 @@
 	<p> Projects </p>
 	
 </h1>
-<h3 align="left">
+<h3 align="center">
 	<p> Ositos Lulú Packaging </p>
 	<br>
 </h3>
@@ -31,7 +31,7 @@
 </h1>
 
 <p align = "center">
-	<img width="50px" src="./assets/images/github_logo.jpg" href="https://github.com/RobotronicAutomation/">
+	<img width="50px" src="./assets/images/github_logo.jpg" href="https://github.com/Robotronic-Automation">
 	<img width="50px" src="./assets/images/youtube_logo.jpg" href="https://www.youtube.com/@RobotronicAutomation">
-	<img width="50px" src="./assets/images/instagram_logo.jpg" href="https://www.youtube.com/@RobotronicAutomation">
+	<img width="50px" src="./assets/images/instagram_logo.jpg" href="https://www.instagram.com/robotronicautomation/">
 </p>
